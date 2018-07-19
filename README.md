@@ -17,11 +17,9 @@ though this may be overkill considering a single function to date
 
 Calculation based on 
 
-[Methane fluxes show consistent temperature dependence across microbial to ecosystem scales
-
-Gabriel Yvon-Durocher, Andrew P. Allen, David Bastviken, Ralf Conrad, Cristian Gudasz, Annick St-Pierre, Nguyen Thanh-Duc & Paul A. del Giorgio](https://www.nature.com/articles/nature13164#online-methods)
+[Methane fluxes show consistent temperature dependence across microbial to ecosystem scales Gabriel Yvon-Durocher, Andrew P. Allen, David Bastviken, Ralf Conrad, Cristian Gudasz, Annick St-Pierre, Nguyen Thanh-Duc & Paul A. del Giorgio](https://www.nature.com/articles/nature13164#online-methods)
 
 
 Removing the effect of temperature to see difference between ecosystems.
 
-!(standardized_rates.png)[standardized_rates.png]
+![standardized_rates.png](standardized_rates.png)
